@@ -1,2 +1,2 @@
 # myPortfolio_website
-link: mohammadbilal.me
+link: https://mohammadbilal.me/
